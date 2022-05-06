@@ -8,3 +8,4 @@ to play the game run:
 4) node index.js
 
 => the game will begine, rember to airdrop the player account with some SOL on devnet before starting.  
+=> Updated for Degen-roulete
